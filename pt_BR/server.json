@@ -22,7 +22,7 @@
   "passwordRequired": "Password required",
   "passwordInvalid": "Password is invalid",
   "passwordTooShort": "Password is too short",
-  "confirmPasswordRequired": "Confirm password required",
+  "confirmPasswordRequired": "Confirmar senha",
   "confirmPasswordInvalid":  "Confirm password is invalid",
   "confirmPasswordTooShort": "Confirm password is too short",
   "passwordMatch": "The password doesnt match"
